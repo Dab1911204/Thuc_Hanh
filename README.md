@@ -4,9 +4,3 @@
 # 5 thành viên
 # Tự tạo conflict
 # Tạo conflict
-# Rebase 1
-# Rebase 1 (Nhom4)
-# Main 1
-# Main 2
-# Nhom4 1
-# Nhom4 2
