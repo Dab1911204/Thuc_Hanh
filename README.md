@@ -2,6 +2,7 @@
 # Nhóm 4
 # Quy trình và công cụ phát triển phần mềm
 # 5 thành viên
+<<<<<<< HEAD
 # Tự tạo conflict
 # Tạo conflict
 # Rebase 1
